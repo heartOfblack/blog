@@ -1,7 +1,7 @@
 ---
 home: true
-#heroText: vuepress-theme-reco
-#tagline: A simple and beautiful vuepress blog theme.
+heroText: heartOfBlack
+tagline: 记录普通人的成长
 # heroImage: /hero.png
 # heroImageStyle: {
 #   maxWidth: '600px',
@@ -12,7 +12,7 @@ home: true
 #   borderRadius: '1rem',
 # }
 bgImageStyle: {
-  height: '450px'
+  height: '400px'
 }
 isShowTitleInHome: false
 actionText: Guide
